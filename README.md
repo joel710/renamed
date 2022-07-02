@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+Il s'agit d'un très simple Telegram Files Rename Bot par [joel].
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
