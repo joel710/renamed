@@ -1,0 +1,11 @@
+git+https://github.com/subinps/pyrogram@inline-m
+TgCrypto
+pyromod
+python-dotenv
+dnspython
+motor
+Pillow
+hachoir
+mutagen
+psutil
+aiofiles
