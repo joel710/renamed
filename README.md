@@ -36,7 +36,7 @@ Easy to Deploy to Heroku.
 
 
 Press Below Button to Deploy!
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/D3JJft?referralCode=jojo_dev)
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Rename-Bot)
 
 #### Thanks to [subinps](https://github.com/subinps) for helping
